@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprices_tracker_app_notes=self.webpackChunkprices_tracker_app_notes||[]).push([[9669],{9669:(e,r,p)=>{p.d(r,{createGitGraphServices:()=>s.b});var s=p(7123);p(3579)}}]);

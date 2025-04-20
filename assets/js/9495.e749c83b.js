@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprices_tracker_app_notes=self.webpackChunkprices_tracker_app_notes||[]).push([[9495],{9495:(e,r,s)=>{s.d(r,{createPieServices:()=>c.f});var c=s(9732);s(3579)}}]);

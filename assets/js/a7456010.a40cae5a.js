@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprices_tracker_app_notes=self.webpackChunkprices_tracker_app_notes||[]).push([[1235],{8552:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

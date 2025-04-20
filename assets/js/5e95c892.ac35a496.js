@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprices_tracker_app_notes=self.webpackChunkprices_tracker_app_notes||[]).push([[9647],{8122:(e,r,s)=>{s.r(r),s.d(r,{default:()=>i});s(6540);var a=s(4164),c=s(1769),p=s(204),t=s(2831),n=s(9847),u=s(4848);function i(e){return(0,u.jsx)(c.e3,{className:(0,a.A)(p.G.wrapper.docsPages),children:(0,u.jsx)(n.A,{children:(0,t.v)(e.route.routes)})})}}}]);
