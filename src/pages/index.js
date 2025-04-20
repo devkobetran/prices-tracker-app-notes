@@ -21,7 +21,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/intro"
           >
-            Go to Elastic Stack Docs
+            Go to Prices Tracker App Docs
           </Link>
         </div>
       </div>

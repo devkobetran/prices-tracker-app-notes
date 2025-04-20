@@ -8,15 +8,15 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Elastic Stack Notes",
-  tagline: "Elastic Stack Docs",
+  title: "Prices Tracker App Notes",
+  tagline: "Prices Tracker App Docs",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
   url: "https://devkobetran.github.io/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/elasticstack-notes/",
+  baseUrl: "/prices-tracker-app-notes/",
 
   // Add trailingSlash configuration
   trailingSlash: false,
@@ -24,7 +24,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "devkobetran", // Usually your GitHub org/user name.
-  projectName: "elasticstack-notes", // Usually your repo name.
+  projectName: "prices-tracker-app-notes", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -51,7 +51,7 @@ const config = {
           sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/devkobetran/elasticstack-notes",
+          editUrl: "https://github.com/devkobetran/prices-tracker-app-notes",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "Kobe Tran Elastic Stack Notes",
+        title: "Kobe Tran Prices Tracker Web Notes",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",
@@ -79,7 +79,7 @@ const config = {
             label: "Tutorial",
           },
           {
-            href: "https://github.com/devkobetran/elasticstack-notes",
+            href: "https://github.com/devkobetran/prices-tracker-app-notes",
             label: "GitHub",
             position: "right",
           },
@@ -102,12 +102,12 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://github.com/devkobetran/elasticstack-notes",
+                href: "https://github.com/devkobetran/prices-tracker-app-notes",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Kobe Tran Elastic Stack Notes. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kobe Tran Prices Tracker App Notes. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
